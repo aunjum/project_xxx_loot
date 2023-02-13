@@ -19,3 +19,7 @@ https://kerkour.com/web-application-with-rust-and-webassembly
 https://crates.io/crates/wasm-bindgen
 
 https://proxyradar.io/login
+
+crate list:
+
+https://github.com/rusqlite/rusqlite
