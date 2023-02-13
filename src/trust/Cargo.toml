@@ -1,0 +1,14 @@
+[package]
+name = "trust_antivirus"
+version = "1.0.0"
+authors = ["Adam Childs <adamdchilds@gmail.com>"]
+
+[dependencies]
+clap = "2.31.2"
+rayon = "1.0.1"
+rust-crypto = "0.2.36"
+rusqlite = { version = "0.13.0", features = [ "bundled"] }
+serde = "1.0.45"
+serde_derive = "1.0.45"
+time = "0.1.38"
+walkdir = "2.1.4"
